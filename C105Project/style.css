@@ -1,0 +1,15 @@
+body{
+ color : beige;
+ background : rgb(199, 240, 253);
+}
+
+.heading {
+  width: 80%;
+  font-size: 22px;
+
+}
+
+ .name_of_objects, #result_object_name , #result_object_accuracy
+ {
+     color: lightblue;
+ }
